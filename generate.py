@@ -21,7 +21,7 @@ WAVDIR = 'wav/'
 
 consumer_key = 'REDACTED'
 consumer_secret = 'REDACTED'
-access_token = 'REDACTED-8yxfR0ovGwIWRPIcslFUQqf1sKKYn7'
+access_token = 'REDACTED'
 access_token_secret = 'REDACTED'
  
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
