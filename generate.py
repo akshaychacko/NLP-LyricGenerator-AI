@@ -19,10 +19,10 @@ TESTLYRICSDIRS = ['country']
 MUSICDIRS = ['gamecube']
 WAVDIR = 'wav/'
 
-consumer_key = 'sHr529n6UOSqFTh9d8Z0rQuvZ'
-consumer_secret = 'PkxsoHvzVOrxtXBVDYG3WsgvDZDKG5OjXKhzNGBrm08NrkVn45'
-access_token = '1070157648354557952-8yxfR0ovGwIWRPIcslFUQqf1sKKYn7'
-access_token_secret = 'wI5VNWHgoTEDWKbmWksLwK1ndvyrDjBEMw28hvRemUXhG'
+consumer_key = 'REDACTED'
+consumer_secret = 'REDACTED'
+access_token = 'REDACTED-8yxfR0ovGwIWRPIcslFUQqf1sKKYn7'
+access_token_secret = 'REDACTED'
  
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
